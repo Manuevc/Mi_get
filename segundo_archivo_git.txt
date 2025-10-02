@@ -1,0 +1,3 @@
+Este es el segundo archivo que creo para practicar git.
+Hoy es 02 de octubre de 2025 y son las 15:02 horas.
+PD: Quiero mucho a mi novia Ivone, aunque no le gusta ese nombre.
